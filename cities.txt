@@ -1,0 +1,17 @@
+Columbus--OH
+Fargo--ND
+Denver--CO
+New-York--NY
+Dayton--OH
+Akron--OH
+Albany--NY
+Cleveland--OH
+Athens--OH
+Cinncinati--OH
+Logan--OH
+Austin--TX
+Los-Angeles--CA
+Chicago--IL
+Houston--TX
+Phoenix--AZ
+San-Diego--CA

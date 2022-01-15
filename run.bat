@@ -1,0 +1,1 @@
+scrapy runspider salaryInformationGenerator.py
